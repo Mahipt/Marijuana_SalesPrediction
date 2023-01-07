@@ -4,3 +4,7 @@ scipy
 scikit-learn
 seaborn
 feature-engine
+livelossplot
+torch
+torchvision 
+torchaudio
